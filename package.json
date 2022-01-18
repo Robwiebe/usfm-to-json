@@ -1,0 +1,10 @@
+{
+	"name": "usfm-to-json",
+	"version": "0.0.1",
+	"description": "Converting USFM to JSON",
+	"main": "index.js",
+	"dependencies": {
+		"file-system": "^2.2.2",
+		"usfm-js": "^2.1.0"
+	}
+}
