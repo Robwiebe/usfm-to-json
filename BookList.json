@@ -1,0 +1,1036 @@
+{
+    "Jer": {
+        "DJH": "Jer",
+        "bookNum": null
+    },
+    "Esth": {
+        "DJH": "Est",
+        "bookNum": null
+    },
+    "Neh": {
+        "DJH": "Neh",
+        "bookNum": null
+    },
+    "Titus": {
+        "DJH": "Tit",
+        "bookNum": null
+    },
+    "Tit": {
+        "DJH": "Tit",
+        "bookNum": null
+    },
+    "Mic": {
+        "DJH": "Mic",
+        "bookNum": null
+    },
+    "Rev": {
+        "DJH": "Rev",
+        "bookNum": null
+    },
+    "Hag": {
+        "DJH": "Hag",
+        "bookNum": null
+    },
+    "Jas": {
+        "DJH": "Jam",
+        "bookNum": null
+    },
+    "Jam": {
+        "DJH": "Jam",
+        "bookNum": null
+    },
+    "3John": {
+        "DJH": "3Jn",
+        "bookNum": null
+    },
+    "Hos": {
+        "DJH": "Hos",
+        "bookNum": null
+    },
+    "Heb": {
+        "DJH": "Heb",
+        "bookNum": null
+    },
+    "2Cor": {
+        "DJH": "2Co",
+        "bookNum": null
+    },
+    "Luke": {
+        "DJH": "Luk",
+        "bookNum": null
+    },
+    "Hab": {
+        "DJH": "Hab",
+        "bookNum": null
+    },
+    "Lam": {
+        "DJH": "Lam",
+        "bookNum": null
+    },
+    "1Kgs": {
+        "DJH": "1Ki",
+        "bookNum": null
+    },
+    "Josh": {
+        "DJH": "Jos",
+        "bookNum": null
+    },
+    "Eccl": {
+        "DJH": "Ecc",
+        "bookNum": null
+    },
+    "Matt": {
+        "DJH": "Mat",
+        "bookNum": null
+    },
+    "Amos": {
+        "DJH": "Amo",
+        "bookNum": null
+    },
+    "Dan": {
+        "DJH": "Dan",
+        "bookNum": null
+    },
+    "Ps": {
+        "DJH": "Psa",
+        "bookNum": null
+    },
+    "2Tim": {
+        "DJH": "2Ti",
+        "bookNum": null
+    },
+    "2Thess": {
+        "DJH": "2Th",
+        "bookNum": null
+    },
+    "1Pet": {
+        "DJH": "1Pe",
+        "bookNum": null
+    },
+    "Job": {
+        "DJH": "Job",
+        "bookNum": null
+    },
+    "Gal": {
+        "DJH": "Gal",
+        "bookNum": null
+    },
+    "2Pet": {
+        "DJH": "2Pe",
+        "bookNum": null
+    },
+    "Joel": {
+        "DJH": "Joe",
+        "bookNum": null
+    },
+    "Joe": {
+        "DJH": "Joe",
+        "bookNum": null
+    },
+    "Lev": {
+        "DJH": "Lev",
+        "bookNum": null
+    },
+    "LEV": {
+        "DJH": "Lev",
+        "bookNum": null
+    },
+    "John": {
+        "DJH": "Joh",
+        "bookNum": null
+    },
+    "Phil": {
+        "DJH": "Php",
+        "bookNum": null
+    },
+    "2Kgs": {
+        "DJH": "2Ki",
+        "bookNum": null
+    },
+    "Ruth": {
+        "DJH": "Rut",
+        "bookNum": null
+    },
+    "1Tim": {
+        "DJH": "1Ti",
+        "bookNum": null
+    },
+    "Phlm": {
+        "DJH": "Phm",
+        "bookNum": null
+    },
+    "Exod": {
+        "DJH": "Exo",
+        "bookNum": null
+    },
+    "Judg": {
+        "DJH": "Jdg",
+        "bookNum": null
+    },
+    "Deut": {
+        "DJH": "Deu",
+        "bookNum": null
+    },
+    "Obad": {
+        "DJH": "Oba",
+        "bookNum": null
+    },
+    "Song": {
+        "DJH": "SoS",
+        "bookNum": null
+    },
+    "SoS": {
+        "DJH": "SoS",
+        "bookNum": null
+    },
+    "Mark": {
+        "DJH": "Mar",
+        "bookNum": null
+    },
+    "2Chr": {
+        "DJH": "2Ch",
+        "bookNum": null
+    },
+    "Eph": {
+        "DJH": "Eph",
+        "bookNum": null
+    },
+    "Acts": {
+        "DJH": "Act",
+        "bookNum": null
+    },
+    "Isa": {
+        "DJH": "Isa",
+        "bookNum": null
+    },
+    "1Chr": {
+        "DJH": "1Ch",
+        "bookNum": null
+    },
+    "1Cor": {
+        "DJH": "1Co",
+        "bookNum": null
+    },
+    "Col": {
+        "DJH": "Col",
+        "bookNum": null
+    },
+    "Nah": {
+        "DJH": "Nah",
+        "bookNum": null
+    },
+    "Zech": {
+        "DJH": "Zec",
+        "bookNum": null
+    },
+    "1Sam": {
+        "DJH": "1Sa",
+        "bookNum": null
+    },
+    "Jude": {
+        "DJH": "Jud",
+        "bookNum": null
+    },
+    "Rom": {
+        "DJH": "Rom",
+        "bookNum": null
+    },
+    "1John": {
+        "DJH": "1Jn",
+        "bookNum": null
+    },
+    "2John": {
+        "DJH": "2Jn",
+        "bookNum": null
+    },
+    "1Thess": {
+        "DJH": "1Th",
+        "bookNum": null
+    },
+    "Mal": {
+        "DJH": "Mal",
+        "bookNum": null
+    },
+    "Prov": {
+        "DJH": "Pro",
+        "bookNum": null
+    },
+    "2Sam": {
+        "DJH": "2Sa",
+        "bookNum": null
+    },
+    "Ezra": {
+        "DJH": "Ezr",
+        "bookNum": null
+    },
+    "Ezr": {
+        "DJH": "Ezr",
+        "bookNum": null
+    },
+    "Gen": {
+        "DJH": "Gen",
+        "bookNum": null
+    },
+    "Zep": {
+        "DJH": "Zep",
+        "bookNum": null
+    },
+    "Num": {
+        "DJH": "Num",
+        "bookNum": null
+    },
+    "Jonah": {
+        "DJH": "Jon",
+        "bookNum": null
+    },
+    "Ezk": {
+        "DJH": "Eze",
+        "bookNum": null
+    },
+    "Eze": {
+        "DJH": "Eze",
+        "bookNum": null
+    },
+    "JER": {
+        "DJH": "Jer",
+        "bookNum": null
+    },
+    "EST": {
+        "DJH": "Est",
+        "bookNum": null
+    },
+    "Est": {
+        "DJH": "Est",
+        "bookNum": null
+    },
+    "NEH": {
+        "DJH": "Neh",
+        "bookNum": null
+    },
+    "TIT": {
+        "FCBH": "Titus",
+        "bookNum": null
+    },
+    "MIC": {
+        "DJH": "Mic",
+        "bookNum": null
+    },
+    "REV": {
+        "DJH": "Rev",
+        "bookNum": null
+    },
+    "HAG": {
+        "DJH": "Hag",
+        "bookNum": null
+    },
+    "JAS": {
+        "DJH": "Jam",
+        "bookNum": null
+    },
+    "3JN": {
+        "DJH": "3Jn",
+        "bookNum": null
+    },
+    "3Jn": {
+        "DJH": "3Jn",
+        "bookNum": null
+    },
+    "HOS": {
+        "DJH": "Hos",
+        "bookNum": null
+    },
+    "HEB": {
+        "DJH": "Heb",
+        "bookNum": null
+    },
+    "2CO": {
+        "DJH": "2Co",
+        "bookNum": null
+    },
+    "2Co": {
+        "DJH": "2Co",
+        "bookNum": null
+    },
+    "LUK": {
+        "DJH": "Luk",
+        "bookNum": null
+    },
+    "Luk": {
+        "DJH": "Luk",
+        "bookNum": null
+    },
+    "HAB": {
+        "DJH": "Hab",
+        "bookNum": null
+    },
+    "LAM": {
+        "DJH": "Lam",
+        "bookNum": null
+    },
+    "1KI": {
+        "DJH": "1Ki",
+        "bookNum": null
+    },
+    "1Ki": {
+        "DJH": "1Ki",
+        "bookNum": null
+    },
+    "JOS": {
+        "DJH": "Jos",
+        "bookNum": null
+    },
+    "Jos": {
+        "DJH": "Jos",
+        "bookNum": null
+    },
+    "ECC": {
+        "DJH": "Ecc",
+        "bookNum": null
+    },
+    "Ecc": {
+        "DJH": "Ecc",
+        "bookNum": null
+    },
+    "MAT": {
+        "DJH": "Mat",
+        "bookNum": null
+    },
+    "Mat": {
+        "DJH": "Mat",
+        "bookNum": null
+    },
+    "AMO": {
+        "DJH": "Amo",
+        "bookNum": null
+    },
+    "Amo": {
+        "DJH": "Amo",
+        "bookNum": null
+    },
+    "DAN": {
+        "DJH": "Dan",
+        "bookNum": null
+    },
+    "PSA": {
+        "DJH": "Psa",
+        "bookNum": null
+    },
+    "Psa": {
+        "DJH": "Psa",
+        "bookNum": null
+    },
+    "2TI": {
+        "DJH": "2Ti",
+        "bookNum": null
+    },
+    "2Ti": {
+        "DJH": "2Ti",
+        "bookNum": null
+    },
+    "2TH": {
+        "DJH": "2Th",
+        "bookNum": null
+    },
+    "2Th": {
+        "DJH": "2Th",
+        "bookNum": null
+    },
+    "1PE": {
+        "DJH": "1Pe",
+        "bookNum": null
+    },
+    "1Pe": {
+        "DJH": "1Pe",
+        "bookNum": null
+    },
+    "JOB": {
+        "DJH": "Job",
+        "bookNum": null
+    },
+    "GAL": {
+        "DJH": "Gal",
+        "bookNum": null
+    },
+    "2PE": {
+        "DJH": "2Pe",
+        "bookNum": null
+    },
+    "2Pe": {
+        "DJH": "2Pe",
+        "bookNum": null
+    },
+    "JOL": {
+        "DJH": "Joe",
+        "bookNum": null
+    },
+    "JEV": {
+        "DJH": "Lev",
+        "bookNum": null
+    },
+    "JHN": {
+        "DJH": "Joh",
+        "bookNum": null
+    },
+    "Joh": {
+        "DJH": "Joh",
+        "bookNum": null
+    },
+    "PHP": {
+        "DJH": "Php",
+        "bookNum": null
+    },
+    "Php": {
+        "DJH": "Php",
+        "bookNum": null
+    },
+    "2KI": {
+        "DJH": "2Ki",
+        "bookNum": null
+    },
+    "2Ki": {
+        "DJH": "2Ki",
+        "bookNum": null
+    },
+    "RUT": {
+        "DJH": "Rut",
+        "bookNum": null
+    },
+    "Rut": {
+        "DJH": "Rut",
+        "bookNum": null
+    },
+    "1TI": {
+        "DJH": "1Ti",
+        "bookNum": null
+    },
+    "1Ti": {
+        "DJH": "1Ti",
+        "bookNum": null
+    },
+    "PHM": {
+        "DJH": "Phm",
+        "bookNum": null
+    },
+    "Phm": {
+        "DJH": "Phm",
+        "bookNum": null
+    },
+    "EXO": {
+        "DJH": "Exo",
+        "bookNum": null
+    },
+    "Exo": {
+        "DJH": "Exo",
+        "bookNum": null
+    },
+    "JDG": {
+        "DJH": "Jdg",
+        "bookNum": null
+    },
+    "Jdg": {
+        "DJH": "Jdg",
+        "bookNum": null
+    },
+    "DEU": {
+        "DJH": "Deu",
+        "bookNum": null
+    },
+    "Deu": {
+        "DJH": "Deu",
+        "bookNum": null
+    },
+    "OBA": {
+        "DJH": "Oba",
+        "bookNum": null
+    },
+    "Oba": {
+        "DJH": "Oba",
+        "bookNum": null
+    },
+    "SNG": {
+        "DJH": "SoS",
+        "bookNum": null
+    },
+    "MRK": {
+        "DJH": "Mar",
+        "bookNum": null
+    },
+    "Mar": {
+        "DJH": "Mar",
+        "bookNum": null
+    },
+    "2CH": {
+        "DJH": "2Ch",
+        "bookNum": null
+    },
+    "2Ch": {
+        "DJH": "2Ch",
+        "bookNum": null
+    },
+    "EPH": {
+        "DJH": "Eph",
+        "bookNum": null
+    },
+    "ACT": {
+        "DJH": "Act",
+        "bookNum": null
+    },
+    "Act": {
+        "DJH": "Act",
+        "bookNum": null
+    },
+    "ISA": {
+        "DJH": "Isa",
+        "bookNum": null
+    },
+    "1CH": {
+        "DJH": "1Ch",
+        "bookNum": null
+    },
+    "1Ch": {
+        "DJH": "1Ch",
+        "bookNum": null
+    },
+    "1CO": {
+        "DJH": "1Co",
+        "bookNum": null
+    },
+    "1Co": {
+        "DJH": "1Co",
+        "bookNum": null
+    },
+    "COL": {
+        "DJH": "Col",
+        "bookNum": null
+    },
+    "NAM": {
+        "DJH": "Nah",
+        "bookNum": null
+    },
+    "ZEC": {
+        "DJH": "Zec",
+        "bookNum": null
+    },
+    "Zec": {
+        "DJH": "Zec",
+        "bookNum": null
+    },
+    "1SA": {
+        "DJH": "1Sa",
+        "bookNum": null
+    },
+    "1Sa": {
+        "DJH": "1Sa",
+        "bookNum": null
+    },
+    "JUD": {
+        "DJH": "Jud",
+        "bookNum": null
+    },
+    "Jud": {
+        "DJH": "Jud",
+        "bookNum": null
+    },
+    "ROM": {
+        "DJH": "Rom",
+        "bookNum": null
+    },
+    "1JN": {
+        "DJH": "1Jn",
+        "bookNum": null
+    },
+    "1Jn": {
+        "DJH": "1Jn",
+        "bookNum": null
+    },
+    "2JN": {
+        "DJH": "2Jn",
+        "bookNum": null
+    },
+    "2Jn": {
+        "DJH": "2Jn",
+        "bookNum": null
+    },
+    "1TH": {
+        "DJH": "1Th",
+        "bookNum": null
+    },
+    "1Th": {
+        "DJH": "1Th",
+        "bookNum": null
+    },
+    "MAL": {
+        "DJH": "Mal",
+        "bookNum": null
+    },
+    "PRO": {
+        "DJH": "Pro",
+        "bookNum": null
+    },
+    "Pro": {
+        "DJH": "Pro",
+        "bookNum": null
+    },
+    "2SA": {
+        "DJH": "2Sa",
+        "bookNum": null
+    },
+    "2Sa": {
+        "DJH": "2Sa",
+        "bookNum": null
+    },
+    "EZR": {
+        "DJH": "Ezr",
+        "bookNum": null
+    },
+    "GEN": {
+        "DJH": "Gen",
+        "bookNum": null
+    },
+    "ZEP": {
+        "DJH": "Zep",
+        "bookNum": null
+    },
+    "NUM": {
+        "DJH": "Num",
+        "bookNum": null
+    },
+    "JON": {
+        "DJH": "Jon",
+        "bookNum": null
+    },
+    "Jon": {
+        "DJH": "Jon",
+        "bookNum": null
+    },
+    "JER": {
+        "FCBH": "Jer",
+        "DJH": "Jer",
+        "bookNum": null
+    },
+    "EST": {
+        "FCBH": "Esth",
+        "DJH": "Est",
+        "bookNum": null
+    },
+    "NEH": {
+        "FCBH": "Neh",
+        "DJH": "Neh",
+        "bookNum": null
+    },
+    "TIT": {
+        "FCBH": "Titus",
+        "DJH": "Tit",
+        "bookNum": null
+    },
+    "MIC": {
+        "FCBH": "Mic",
+        "DJH": "Mic",
+        "bookNum": null
+    },
+    "REV": {
+        "FCBH": "Rev",
+        "DJH": "Rev",
+        "bookNum": null
+    },
+    "HAG": {
+        "FCBH": "Hag",
+        "DJH": "Hag",
+        "bookNum": null
+    },
+    "JAS": {
+        "FCBH": "Jas",
+        "DJH": "Jam",
+        "bookNum": null
+    },
+    "3JN": {
+        "FCBH": "3John",
+        "DJH": "3Jn",
+        "bookNum": null
+    },
+    "HOS": {
+        "FCBH": "Hos",
+        "DJH": "Hos",
+        "bookNum": null
+    },
+    "HEB": {
+        "FCBH": "Heb",
+        "DJH": "Heb",
+        "bookNum": null
+    },
+    "2CO": {
+        "FCBH": "2Cor",
+        "DJH": "2Co",
+        "bookNum": null
+    },
+    "LUK": {
+        "FCBH": "Luke",
+        "DJH": "Luk",
+        "bookNum": null
+    },
+    "HAB": {
+        "FCBH": "Hab",
+        "DJH": "Hab",
+        "bookNum": null
+    },
+    "LAM": {
+        "FCBH": "Lam",
+        "DJH": "Lam",
+        "bookNum": null
+    },
+    "1KI": {
+        "FCBH": "1Kgs",
+        "DJH": "1Ki",
+        "bookNum": null
+    },
+    "JOS": {
+        "FCBH": "Josh",
+        "DJH": "Jos",
+        "bookNum": null
+    },
+    "ECC": {
+        "FCBH": "Eccl",
+        "DJH": "Ecc",
+        "bookNum": null
+    },
+    "MAT": {
+        "FCBH": "Matt",
+        "DJH": "Mat",
+        "bookNum": null
+    },
+    "AMO": {
+        "FCBH": "Amos",
+        "DJH": "Amo",
+        "bookNum": null
+    },
+    "DAN": {
+        "FCBH": "Dan",
+        "DJH": "Dan",
+        "bookNum": null
+    },
+    "PSA": {
+        "FCBH": "Ps",
+        "DJH": "Psa",
+        "bookNum": null
+    },
+    "2TI": {
+        "FCBH": "2Tim",
+        "DJH": "2Ti",
+        "bookNum": null
+    },
+    "2TH": {
+        "FCBH": "2Thess",
+        "DJH": "2Th",
+        "bookNum": null
+    },
+    "1PE": {
+        "FCBH": "1Pet",
+        "DJH": "1Pe",
+        "bookNum": null
+    },
+    "JOB": {
+        "FCBH": "Job",
+        "DJH": "Job",
+        "bookNum": null
+    },
+    "GAL": {
+        "FCBH": "Gal",
+        "DJH": "Gal",
+        "bookNum": null
+    },
+    "2PE": {
+        "FCBH": "2Pet",
+        "DJH": "2Pe",
+        "bookNum": null
+    },
+    "JOL": {
+        "FCBH": "Joel",
+        "DJH": "Joe",
+        "bookNum": null
+    },
+    "LEV": {
+        "FCBH": "Lev",
+        "DJH": "Lev",
+        "bookNum": null
+    },
+    "JHN": {
+        "FCBH": "John",
+        "DJH": "Joh",
+        "bookNum": null
+    },
+    "PHP": {
+        "FCBH": "Phil",
+        "DJH": "Php",
+        "bookNum": null
+    },
+    "2KI": {
+        "FCBH": "2Kgs",
+        "DJH": "2Ki",
+        "bookNum": null
+    },
+    "RUT": {
+        "FCBH": "Ruth",
+        "DJH": "Rut",
+        "bookNum": null
+    },
+    "1TI": {
+        "FCBH": "1Tim",
+        "DJH": "1Ti",
+        "bookNum": null
+    },
+    "PHM": {
+        "FCBH": "Phlm",
+        "DJH": "Phm",
+        "bookNum": null
+    },
+    "EXO": {
+        "FCBH": "Exod",
+        "DJH": "Exo",
+        "bookNum": null
+    },
+    "JDG": {
+        "FCBH": "Judg",
+        "DJH": "Jdg",
+        "bookNum": null
+    },
+    "DEU": {
+        "FCBH": "Deut",
+        "DJH": "Deu",
+        "bookNum": null
+    },
+    "OBA": {
+        "FCBH": "Obad",
+        "DJH": "Oba",
+        "bookNum": null
+    },
+    "SNG": {
+        "FCBH": "Song",
+        "DJH": "SoS",
+        "bookNum": null
+    },
+    "MRK": {
+        "FCBH": "Mark",
+        "DJH": "Mar",
+        "bookNum": null
+    },
+    "2CH": {
+        "FCBH": "2Chr",
+        "DJH": "2Ch",
+        "bookNum": null
+    },
+    "EPH": {
+        "FCBH": "Eph",
+        "DJH": "Eph",
+        "bookNum": null
+    },
+    "ACT": {
+        "FCBH": "Acts",
+        "DJH": "Act",
+        "bookNum": null
+    },
+    "ISA": {
+        "FCBH": "Isa",
+        "DJH": "Isa",
+        "bookNum": null
+    },
+    "1CH": {
+        "FCBH": "1Chr",
+        "DJH": "1Ch",
+        "bookNum": null
+    },
+    "1CO": {
+        "FCBH": "1Cor",
+        "DJH": "1Co",
+        "bookNum": null
+    },
+    "COL": {
+        "FCBH": "Col",
+        "DJH": "Col",
+        "bookNum": null
+    },
+    "NAH": {
+        "FCBH": "Nah",
+        "DJH": "Nah",
+        "bookNum": null
+    },
+    "ZEC": {
+        "FCBH": "Zech",
+        "DJH": "Zec",
+        "bookNum": null
+    },
+    "1SA": {
+        "FCBH": "1Sam",
+        "DJH": "1Sa",
+        "bookNum": null
+    },
+    "JUD": {
+        "FCBH": "Jude",
+        "DJH": "Jud",
+        "bookNum": null
+    },
+    "ROM": {
+        "FCBH": "Rom",
+        "DJH": "Rom",
+        "bookNum": null
+    },
+    "1JN": {
+        "FCBH": "1John",
+        "DJH": "1Jn",
+        "bookNum": null
+    },
+    "2JN": {
+        "FCBH": "2John",
+        "DJH": "2Jn",
+        "bookNum": null
+    },
+    "1TH": {
+        "FCBH": "1Thess",
+        "DJH": "1Th",
+        "bookNum": null
+    },
+    "MAL": {
+        "FCBH": "Mal",
+        "DJH": "Mal",
+        "bookNum": null
+    },
+    "PRO": {
+        "FCBH": "Prov",
+        "DJH": "Pro",
+        "bookNum": null
+    },
+    "2SA": {
+        "FCBH": "2Sam",
+        "DJH": "2Sa",
+        "bookNum": null
+    },
+    "EZR": {
+        "FCBH": "Ezra",
+        "DJH": "Ezr",
+        "bookNum": null
+    },
+    "GEN": {
+        "FCBH": "Gen",
+        "DJH": "Gen",
+        "bookNum": null
+    },
+    "ZEP": {
+        "FCBH": "Zep",
+        "DJH": "Zep",
+        "bookNum": null
+    },
+    "NUM": {
+        "FCBH": "Num",
+        "DJH": "Num",
+        "bookNum": null
+    },
+    "JON": {
+        "FCBH": "Jonah",
+        "DJH": "Jon",
+        "bookNum": null
+    },
+    "EZK": {
+        "FCBH": "Ezek",
+        "DJH": "Eze",
+        "bookNum": null
+    }
+}

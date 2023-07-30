@@ -5,6 +5,7 @@
 	"main": "index.js",
 	"dependencies": {
 		"file-system": "^2.2.2",
+		"lodash.isequal": "^4.5.0",
 		"usfm-js": "^2.1.0"
 	}
 }

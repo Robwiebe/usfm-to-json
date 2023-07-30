@@ -1,0 +1,534 @@
+dublin_core:
+  type: bundle
+  conformsto: rc0.2
+  format: text/usfm
+  identifier: ulb
+  title: 'Unlocked Literal Bible - Khmer'
+  subject: 'Bible'
+  language:
+    identifier: km
+    title: 'ខ្មែរ (Khmer)'
+    direction: ltr
+  source:
+    -
+      identifier: ulb
+      language: en
+      version: '12'
+  rights: 'CC BY-SA 4.0'
+  creator: 'Wycliffe Associates'
+  contributor:
+    - 'Chan_Sy'
+    - 'Chanthou'
+    - 'Chhoung_Kim'
+    - 'Hakmanet'
+    - 'Hannah'
+    - 'Hong'
+    - 'Hout Raksmeyt'
+    - 'Johnvorn'
+    - 'Karony Svay'
+    - 'Kimhorn'
+    - 'Kimsrean Ven'
+    - 'Laiim'
+    - 'Lavy'
+    - 'Layleangchhat'
+    - 'Leangchhatlay'
+    - 'Neath89'
+    - 'Nika'
+    - 'Oum_Meng'
+    - 'Pagnarith'
+    - 'Phalsopheak'
+    - 'Phearak Phon'
+    - 'Pheng Thida'
+    - 'Pokven'
+    - 'Reaksmey_Sunshine'
+    - 'Samdyhuoy'
+    - 'Sarasan'
+    - 'Sokhomkhim'
+    - 'Sokhour'
+    - 'Sothy-Vana'
+    - 'Sreylin'
+    - 'Vana_Sothy'
+    - 'Vidalybin'
+    - 'Virak Khoeun'
+  description: "An open-licensed translation, intended to provide a 'functional' understanding of the Bible. It increases the translator's understanding of the text by translating theological terms as descriptive phrases."
+  relation:
+    - 'km/tn'
+    - 'km/tq'
+    - 'km/tw'
+  publisher: 'Wycliffe Associates'
+  issued: '2021-03-15'
+  modified: '2021-03-15'
+  version: '12.1'
+
+checking:
+  checking_entity:
+    - 'Khmer Nationals (Church Pastors, Leaders & Translators)'
+    - 'San Sara'
+    - 'Phon Kemhorn'
+    - 'Peou Vorr'
+    - 'Khiin Sokhow'
+  checking_level: '3'
+
+projects:
+  -
+    title: 'លោកុប្បត្តិ'
+    versification: ufw
+    identifier: 'gen'
+    sort: 1
+    path: './01-GEN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'និក្ខមនំ'
+    versification: ufw
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'លេវីវិន័យ'
+    versification: ufw
+    identifier: 'lev'
+    sort: 3
+    path: './03-LEV.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ជនគណនា'
+    versification: ufw
+    identifier: 'num'
+    sort: 4
+    path: './04-NUM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ចោទិយកថា'
+    versification: ufw
+    identifier: 'deu'
+    sort: 5
+    path: './05-DEU.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'យ៉ូស្វេ'
+    versification: ufw
+    identifier: 'jos'
+    sort: 6
+    path: './06-JOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ចៅហ្វាយ'
+    versification: ufw
+    identifier: 'jdg'
+    sort: 7
+    path: './07-JDG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'នាងរស់'
+    versification: ufw
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '១ សាំយូអែល'
+    versification: ufw
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '២ សាំយូអែល'
+    versification: ufw
+    identifier: '2sa'
+    sort: 10
+    path: './10-2SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '១ ពង្សាវតាក្សត្រ'
+    versification: ufw
+    identifier: '1ki'
+    sort: 11
+    path: './11-1KI.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '២ ពង្សាវតាក្សត្រ'
+    versification: ufw
+    identifier: '2ki'
+    sort: 12
+    path: './12-2KI.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'របាក្សត្រ ទី១'
+    versification: ufw
+    identifier: '1ch'
+    sort: 13
+    path: './13-1CH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'របាក្សត្រទី ២'
+    versification: ufw
+    identifier: '2ch'
+    sort: 14
+    path: './14-2CH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'អែសរ៉ា'
+    versification: ufw
+    identifier: 'ezr'
+    sort: 15
+    path: './15-EZR.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'នេហេមា'
+    versification: ufw
+    identifier: 'neh'
+    sort: 16
+    path: './16-NEH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'នាងអេសធើរ'
+    versification: ufw
+    identifier: 'est'
+    sort: 17
+    path: './17-EST.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'យ៉ូប'
+    versification: ufw
+    identifier: 'job'
+    sort: 18
+    path: './18-JOB.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ទំនុកតម្កើង'
+    versification: ufw
+    identifier: 'psa'
+    sort: 19
+    path: './19-PSA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'សុភាសិត'
+    versification: ufw
+    identifier: 'pro'
+    sort: 20
+    path: './20-PRO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'សាស្ដា'
+    versification: ufw
+    identifier: 'ecc'
+    sort: 21
+    path: './21-ECC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'បទ​ចម្រៀង​សាឡូម៉ូន'
+    versification: ufw
+    identifier: 'sng'
+    sort: 22
+    path: './22-SNG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'អេសាយ'
+    versification: ufw
+    identifier: 'isa'
+    sort: 23
+    path: './23-ISA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'យេរេមា'
+    versification: ufw
+    identifier: 'jer'
+    sort: 24
+    path: './24-JER.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'បរិទេវ'
+    versification: ufw
+    identifier: 'lam'
+    sort: 25
+    path: './25-LAM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'អេសេគាល'
+    versification: ufw
+    identifier: 'ezk'
+    sort: 26
+    path: './26-EZK.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ដានីយ៉ែល'
+    versification: ufw
+    identifier: 'dan'
+    sort: 27
+    path: './27-DAN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ហូសេ'
+    versification: ufw
+    identifier: 'hos'
+    sort: 28
+    path: './28-HOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'យ៉ូអែល'
+    versification: ufw
+    identifier: 'jol'
+    sort: 29
+    path: './29-JOL.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'អេម៉ុស'
+    versification: ufw
+    identifier: 'amo'
+    sort: 30
+    path: './30-AMO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'អូបាឌា'
+    versification: ufw
+    identifier: 'oba'
+    sort: 31
+    path: './31-OBA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'យ៉ូណាស'
+    versification: ufw
+    identifier: 'jon'
+    sort: 32
+    path: './32-JON.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'មីកា'
+    versification: ufw
+    identifier: 'mic'
+    sort: 33
+    path: './33-MIC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ណាហ៊ូម'
+    versification: ufw
+    identifier: 'nam'
+    sort: 34
+    path: './34-NAM.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ហាបាគូក'
+    versification: ufw
+    identifier: 'hab'
+    sort: 35
+    path: './35-HAB.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'សេផានា'
+    versification: ufw
+    identifier: 'zep'
+    sort: 36
+    path: './36-ZEP.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ហាកាយ'
+    versification: ufw
+    identifier: 'hag'
+    sort: 37
+    path: './37-HAG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'សាការី'
+    versification: ufw
+    identifier: 'zec'
+    sort: 38
+    path: './38-ZEC.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ម៉ាឡាគី'
+    versification: ufw
+    identifier: 'mal'
+    sort: 39
+    path: './39-MAL.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'កណ្ឌគម្ពីរ​ម៉ាថាយ'
+    versification: ufw
+    identifier: 'mat'
+    sort: 40
+    path: './41-MAT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ម៉ាកុស'
+    versification: ufw
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'លូកា'
+    versification: ufw
+    identifier: 'luk'
+    sort: 42
+    path: './43-LUK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'យ៉ូហាន'
+    versification: ufw
+    identifier: 'jhn'
+    sort: 43
+    path: './44-JHN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'កណ្ឌគម្ពីរកិច្ចការ'
+    versification: ufw
+    identifier: 'act'
+    sort: 44
+    path: './45-ACT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'រ៉ូម'
+    versification: ufw
+    identifier: 'rom'
+    sort: 45
+    path: './46-ROM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '១ កូរិនថូស'
+    versification: ufw
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '២ កូរិនថូស'
+    versification: ufw
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'កាឡាទី'
+    versification: ufw
+    identifier: 'gal'
+    sort: 48
+    path: './49-GAL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'អេភេសូរ'
+    versification: ufw
+    identifier: 'eph'
+    sort: 49
+    path: './50-EPH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ភីលីព'
+    versification: ufw
+    identifier: 'php'
+    sort: 50
+    path: './51-PHP.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'កូឡូស'
+    versification: ufw
+    identifier: 'col'
+    sort: 51
+    path: './52-COL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '១​ ថេស្សាឡូនិក'
+    versification: ufw
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '២ ថេស្សាឡូនិក'
+    versification: ufw
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '១ ធីម៉ូថេ'
+    versification: ufw
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '២ ធីម៉ូថេ'
+    versification: ufw
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ទីតុស'
+    versification: ufw
+    identifier: 'tit'
+    sort: 56
+    path: './57-TIT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ភីលេម៉ូន'
+    versification: ufw
+    identifier: 'phm'
+    sort: 57
+    path: './58-PHM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ហេព្រើរ'
+    versification: ufw
+    identifier: 'heb'
+    sort: 58
+    path: './59-HEB.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'យ៉ាកុប'
+    versification: ufw
+    identifier: 'jas'
+    sort: 59
+    path: './60-JAS.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '១ ពេត្រុស'
+    versification: ufw
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '២ ពេត្រុស'
+    versification: ufw
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '១ យ៉ូហាន'
+    versification: ufw
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '២ យ៉ូហាន'
+    versification: ufw
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '3 យ៉ូហាន'
+    versification: ufw
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'យូដាស'
+    versification: ufw
+    identifier: 'jud'
+    sort: 65
+    path: './66-JUD.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'វិវរណៈ'
+    versification: ufw
+    identifier: 'rev'
+    sort: 66
+    path: './67-REV.usfm'
+    categories: [ 'bible-nt' ]
